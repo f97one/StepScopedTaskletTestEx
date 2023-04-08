@@ -1,0 +1,2 @@
+# StepScopedTaskletTestEx
+StepScopeなTaskletをテストする例
